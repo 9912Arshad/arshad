@@ -8,7 +8,7 @@
 
 
 👨‍💻 About Me
-
+---------------------------------------------------------------------------------------------------
 I'm a beginner software engineering student who loves exploring how technology solves real-world problems.
 I enjoy building small projects that help me learn the fundamentals of web development and software design.
 My goal is to become a skilled full-stack developer capable of creating efficient and user-friendly applications.
@@ -17,7 +17,7 @@ I’m always open to learning new technologies, collaborating on projects, and i
 
 
 🧰 Tech Stack
-
+-----------------------------------------------------------------------------------------------------
 💻 Frontend:
 React | HTML | CSS | JavaScript
 ⚙️ Backend:
@@ -33,7 +33,7 @@ REST APIs | JSON | UI/UX Design Principles | Version Control
 
 
 📈 GitHub Stats
-
+------------------------------------------------------------------------------------------------------------
 <img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/e3a22f30-e01c-4222-8798-b39acada4520" />
 
 
